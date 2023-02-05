@@ -9,7 +9,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python,java,c# and machine learning using python
 - 💞 I’m looking to collaborate on open source project
-- 📫 How to reach me rathiraghav06@gmail.com , [Instagram](https://instagram.com/raghavrathiiii?igshid=YWJhMjlhZTc=)
+- 📫 How to reach me rathiraghav06@gmail.com , Instagram: [raghavrathiiii](https://instagram.com/raghavrathiiii?igshid=YWJhMjlhZTc=)
 <br><br><br><br>
 
 **ADDRESS**
