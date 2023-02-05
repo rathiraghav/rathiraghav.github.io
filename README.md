@@ -112,4 +112,4 @@ Advance
 - [x] HTML
 - [x] CSS
 
-![](https://raghavrathi.me/ghpvc/?username=your-github-rathiraghav&color=green)
+![](https://komarev.com/ghpvc/?username=rathiraghav&color=red&style=for-the-badge&label=profile+visit)
