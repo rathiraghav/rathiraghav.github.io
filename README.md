@@ -111,3 +111,5 @@ Advance
 - [x] JAVA
 - [x] HTML
 - [x] CSS
+
+![Visitor Count](https://profile-counter.glitch.me/{rathiraghav}/count.svg)
