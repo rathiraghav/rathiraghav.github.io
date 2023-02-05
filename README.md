@@ -112,4 +112,4 @@ Advance
 - [x] HTML
 - [x] CSS
 
-![Visitor Count](https://profile-counter.glitch.me/{rathiraghav}/count.svg)
+![](https://raghavrathi.me/ghpvc/?username=your-github-rathiraghav&color=green)
